@@ -34,6 +34,22 @@ The chatbot is designed for various **natural language understanding application
 - **Hugging Face Embeddings** (for text vectorization)
 - **ChromaDB** (for semantic search & vector storage)
 - **Python** (Core development language)
+  
+## Contributing  
+
+Contributions are welcome! If you would like to improve the analysis, add new features, or provide additional insights, please feel free to fork the repository and submit a pull request.  
+
+## 📧 Contact  
+
+For questions or feedback, feel free to reach out:  
+
+**Your Name**  
+
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 💻 GitHub: [your-username](https://github.com/your-username)  
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-profile)  
+ 
+  
 
 ## 🎯 Future Improvements
 - ✅ **Implement Routing** for more **accurate data retrieval** 🔀  
