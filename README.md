@@ -92,7 +92,7 @@ Contributions are welcome! If you’d like to improve the analysis, add new feat
 For questions or feedback, please reach out:
 
 **Your Name**  
-- 📧 Email: [your.email@example.com](mailto:vedantpimple1775@gmail.com)  
+- 📧 Email: [vedantpimple1775@gmail.com](mailto:vedantpimple1775@gmail.com)  
 - 💻 GitHub: [levi1775](https://github.com/levi1775)  
 - 🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/vedant-pimple-523a65228/)
 
